@@ -1,0 +1,4 @@
+shamsul12x|1123|shamsul@gmail.com|KFC|Sector 11, Uttara|100000
+Iliyas Rahman|ir|ir@hotmail.com|Pizza Hut|Dhanmondi 9/B|100000
+rafiquzzaman|rqz|rqz@gmail.com|CPFC|Sector 9, Uttara|100000
+alimul hasan|ah|ah@gmail.com|Dominos|Baridhara|1200000

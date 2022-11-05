@@ -1,0 +1,6 @@
+shamsul12x|1123|shamsul@gmail.com|KFC|Sector 11, Uttara|100000
+karimul_amin|password|ka@gmail.com|CPFC|Sector 12, Uttara|10000
+latif_chowdhury|11xx|lc@yahoo.com|Pizza Hut|Dhanmondi 9/B|120000
+samiul_alam|qaz|samiull@gmail.com|Burger King|Banani 12|100000
+Iliyas Rahman|10203040|ir@hotmail.com|Dominos|Baridhara|2000000
+rafiqul_amin|123|rafiqul@yahoo.com|Subway|Purbachal, Dhaka|600000

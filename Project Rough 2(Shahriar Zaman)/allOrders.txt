@@ -1,0 +1,4 @@
+1|KFC|pending|alamin|Banani|Crispy Chicken|1|250|250
+1|KFC|pending|alamin|Banani|Peri Peri Chicken|1|300|300|Zinger Burger|2|410|820
+1|KFC|pending|alamin|Banani|Boneless Strips|1|800|800
+1|KFC|pending|alamin|Banani|Spicy Zinger|4|450|1800

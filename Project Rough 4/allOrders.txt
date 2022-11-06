@@ -1,0 +1,10 @@
+1|KFC|approved|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Crispy Chicken|3|250|750
+2|CPFC|approved|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Spicy Chicken Fry|6|96|576
+3|CPFC|approved|James|Dhaka|Spicy Chicken Fry|3|96|288
+4|KFC|pending|alamin|Banani|Pepsi|1|50|50|Fried Rice|1|100|100
+5|KFC|approved|alamin|Banani|Fried Rice|1|190|190|Chicken Bucket|3|900|2700
+6|Pizza Hut|pending|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Beef Pizza|1|620|620|Coke|4|45|180|Pepsi|1|40|40
+7|Subway|approved|symihad|kuratoli|Tuna Sub Sandwich|4|670|2680
+8|Pizza Hut|pending|alamin|Banani|Chicken Pizza|2|430|860|Pepsi|3|40|120
+9|Pizza Hut|pending|alamin|Banani|Pepsi|1|40|40
+10|Subway|pending|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Tuna Sub Sandwich|3|670|2010

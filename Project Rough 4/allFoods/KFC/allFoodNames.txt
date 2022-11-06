@@ -3,3 +3,6 @@ Crispy Chicken|250
 Peri Peri Chicken|300
 Spicy Zinger| 450
 Zinger Burger|410
+Pepsi|50
+Fried Rice|190
+Chicken Bucket|900
